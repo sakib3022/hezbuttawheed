@@ -64,11 +64,12 @@ h3 {
 
 .footer {
     background-color: rgb(28, 140, 214);
-    padding: 30px 600px;
+    padding: 30px 350px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     justify-content: center;
     align-items: center;
+    justify-items: center;
 }
 
 
@@ -132,6 +133,7 @@ h3 {
         grid-template-columns: repeat(3, 1fr);
         justify-content: center;
         align-items: center;
+
     }
 
 
